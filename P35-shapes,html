@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>XYZ</title>
+</head>
+<body>
+<table width="200px" align="center" border="black">
+  <tr>
+    <td>A</td>
+    <td>B</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">D</td>
+    <td rowspan="3">E</td>
+  </tr>
+  <tr>
+    <td>F</td>
+    <td>G</td>
+  </tr>
+  <tr>
+    <td>H</td>
+    <td>I</td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">K</td>
+    <td>L</td>
+  <tr>
+    <td>M
+    </td>
+    <td>N</td>
+    <td>O</td>
+  </tr>
+</table>
